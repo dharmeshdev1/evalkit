@@ -1,0 +1,4 @@
+{"task_id": "m1", "output": "3 * 4 = 12, so the answer is 12.", "expected": "12"}
+{"task_id": "m2", "output": "The total is 1,250 dollars", "expected": "1250"}
+{"task_id": "m3", "output": "I think it is about 7", "expected": "8"}
+{"task_id": "m4", "output": "No numbers here", "expected": "5"}
